@@ -1,0 +1,35 @@
+< Answer for maze.txt >
+EEEENNNEEEEEESEEEEESX
+xxxxxxxxxxxxxxxxxx x
+x     x+++++++xxxx x
+x xxxxx++xxxxx  xx x
+x xxxxx+xxxxxxx xx x
+x x++++++++++xx xx x
+x xxxxxxxxxx+xx    x
+xxxxxxxxxxxxxxxxxxxx
+
+< Answer for maze.txt >
+xxxxxxxxxxxxxxxxxx*x
+x+++++x       xxxx*x
+x+xxxxx  xxxxx**xx*x
+x+xxxxx xxxxxxx*xx*x
+x+x          xx*xx*x
+x+xxxxxxxxxx xx****x
+xxxxxxxxxxxxxxxxxxxx
+
+##########
+#**###***#
+# *#***+*#
+# ***+***#
+# *******#
+# *******#
+##*#######
+
+< Answer for maze0.txt >
+xxxxxxxx*x
+xxx xxxx*x
+x xxxxx *x
+x xxxxxx*x
+xxxxxxxxxx
+
+Passed all tests..

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HW3_Maze"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HW3_Maze">
+				<Option output="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/cmake-build-debug/HW3_Maze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW3_Maze"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HW3_Maze/fast">
+				<Option output="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/cmake-build-debug/HW3_Maze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW3_Maze/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Tomomi/CLionProjects/CSS342/Maze\ Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/creature.cpp">
+			<Option target="HW3_Maze"/>
+		</Unit>
+		<Unit filename="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/creature.h">
+			<Option target="HW3_Maze"/>
+		</Unit>
+		<Unit filename="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/main.cpp">
+			<Option target="HW3_Maze"/>
+		</Unit>
+		<Unit filename="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/maze.cpp">
+			<Option target="HW3_Maze"/>
+		</Unit>
+		<Unit filename="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/maze.h">
+			<Option target="HW3_Maze"/>
+		</Unit>
+		<Unit filename="/Users/Tomomi/CLionProjects/CSS342/Maze Solver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

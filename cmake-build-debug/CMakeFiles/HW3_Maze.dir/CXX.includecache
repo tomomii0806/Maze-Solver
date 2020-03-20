@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/creature.cpp
+stack
+-
+creature.h
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/creature.h
+
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/creature.h
+iostream
+-
+maze.h
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/maze.h
+
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/main.cpp
+iostream
+-
+maze.h
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/maze.h
+creature.h
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/creature.h
+cassert
+-
+
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/maze.cpp
+maze.h
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/maze.h
+creature.h
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/creature.h
+fstream
+-
+iostream
+-
+
+/Users/Tomomi/CLionProjects/CSS342/Maze Solver/maze.h
+string
+-
+
